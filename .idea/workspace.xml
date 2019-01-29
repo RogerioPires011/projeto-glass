@@ -36,9 +36,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/teste02.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-            </state>
+            <state relative-caret-position="-144" />
           </provider>
         </entry>
       </file>
@@ -67,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -129,12 +127,12 @@
       <workItem from="1548353051841" duration="7569000" />
       <workItem from="1548432856523" duration="9152000" />
       <workItem from="1548694423280" duration="1099000" />
-      <workItem from="1548780972588" duration="8368000" />
+      <workItem from="1548780972588" duration="8804000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30891000" />
+    <option name="totallyTimeSpent" value="31327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -209,9 +207,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/teste02.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-        </state>
+        <state relative-caret-position="-144" />
       </provider>
     </entry>
   </component>
